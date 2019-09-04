@@ -39,6 +39,9 @@
    * [Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216125)
    * 
 
+### Analytical Methods
+   * [In situ and laboratory soil spectroscopy with portable visible-to-near-infrared and mid-infrared instruments for the assessment of organic carbon in soils](https://www.sciencedirect.com/science/article/pii/S0016706119307372?via%3Dihub)
+
 
 ### Soil Science
    * https://www.soil-discuss.net/soil-2019-57/soil-2019-57.pdf
