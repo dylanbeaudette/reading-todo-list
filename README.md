@@ -4,6 +4,9 @@
 ## Methods
 
 ### R Packages
+   * [NicheMapR](https://github.com/mrke/NicheMapR/releases)
+   * [gradientForest](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/11-0252.1)
+   * [blockCV](https://github.com/rvalavi/blockCV) [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13107)
    * [errors](https://cran.r-project.org/web/packages/errors/vignettes/rjournal.pdf)
    * https://www.data-imaginist.com/2019/1-giraffe-2-giraffe-go/
    * [inspectdf](https://alastairrushworth.github.io/Exploring-categorical-data-with-inspectdf/)
@@ -27,6 +30,9 @@
 ### Spatial Pattern Analysis
    * https://nowosad.github.io/post/ent-bp1/
    * https://nowosad.github.io/post/sabre-bp/
+   
+### Information Theory
+   * [The use of spatial information in entropy measures](https://arxiv.org/pdf/1703.06001.pdf)
 
 ### Data Viz
    * [Value-Suppressing Uncertainty Palettes](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9)
@@ -44,6 +50,7 @@
 
 
 ### Soil Science
+   * [Soil Moisture and Redoximorphic Features: A Historical Perspective](https://dl.sciencesocieties.org/publications/books/articles/sssaspecialpubl/quantifyingsoil/1)
    * https://www.soil-discuss.net/soil-2019-57/soil-2019-57.pdf
    * https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JF005069
    * https://dl.sciencesocieties.org/publications/sssaj/articles/83/3/772
@@ -52,6 +59,7 @@
    * [ped shape quantification](https://dl.sciencesocieties.org/publications/sssaj/articles/80/6/1604)
    * [Re-politicising soils: What is the role of soil framings in setting the agenda?](https://www.sciencedirect.com/science/article/pii/S0016706118321499)
    * [Soil maps of The Netherlands](https://www.sciencedirect.com/science/article/pii/S0016706113000992)
+   * [A Comparative Review of Methods of Using Soil Colors and their Patterns for Wetland Ecology and Management](https://www.tandfonline.com/doi/full/10.1080/00103624.2019.1604737?af=R)
 
 ### DSM
    * [Addressing the issue of digital mapping of soil classes with imbalanced class observations](https://www.sciencedirect.com/science/article/pii/S0016706118319499?via%3Dihub)
