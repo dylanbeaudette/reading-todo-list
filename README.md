@@ -12,6 +12,13 @@
    * [inspectdf](https://alastairrushworth.github.io/Exploring-categorical-data-with-inspectdf/)
    * [R / hydrololgy](https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-50/hess-2019-50.pdf)
    * [daymetr](https://cran.r-project.org/web/packages/daymetr/vignettes/daymetr-vignette.html)
+   * [RcppAnnoy](http://dirk.eddelbuettel.com/blog/2019/09/23/#rcppannoy_0.0.13)
+   * [ggpointdensity](https://github.com/LKremer/ggpointdensity)
+   * [NLMR and landscapetools: An integrated environment for simulating and modifying neutral landscape models in R](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13076)
+   * [landscapetools](https://ropensci.github.io/landscapetools/articles/overview.html)
+   * [belg](https://r-spatialecology.github.io/belg/articles/belg1.html)
+   * [funflow](https://github.com/moodymudskipper/funflow)
+   * [funGraphs](https://github.com/kcf-jackson/funGraphs/blob/master/readme.md)
 
 ### Stats
    * [Controversies in Predictive Modeling, Machine Learning, and Validation](http://hbiostat.org/talks/stratos19.pdf)
@@ -60,9 +67,11 @@
    * [Re-politicising soils: What is the role of soil framings in setting the agenda?](https://www.sciencedirect.com/science/article/pii/S0016706118321499)
    * [Soil maps of The Netherlands](https://www.sciencedirect.com/science/article/pii/S0016706113000992)
    * [A Comparative Review of Methods of Using Soil Colors and their Patterns for Wetland Ecology and Management](https://www.tandfonline.com/doi/full/10.1080/00103624.2019.1604737?af=R)
+   * [Topographic controls of soil organic carbon on soil-mantled landscapes](https://www.nature.com/articles/s41598-019-42556-5.epdf?author_access_token=T6mG0muVZ85rgmzl4ZXcqdRgN0jAjWel9jnR3ZoTv0Nluk2f6jYfhnFFHFgzC-e2A9y0IYWsrE32m5yk8CBE1dFzJnU4tbfiOAmW6uRbUNeeasw0shVTZdiVVXpYm039q7ez0au0ri7aPgJSkO2wMA%3D%3D)
 
 ### DSM
    * [Addressing the issue of digital mapping of soil classes with imbalanced class observations](https://www.sciencedirect.com/science/article/pii/S0016706118319499?via%3Dihub)
+   * [Evaluating sampling efforts of standard laboratory analysis and mid-infrared spectroscopy for cost effective digital soil mapping at field scale](https://www.sciencedirect.com/science/article/pii/S0016706119307475?dgcid=author)
    * [DSM peatlands](https://www.sciencedirect.com/science/article/pii/S001282521830360X#)
    * [Comparing algorithms to disaggregate complex soil polygons in contrasting environments](https://www.sciencedirect.com/science/article/pii/S001670611930415X?via%3Dihub)
    * [2018 POLARIS over-sold](http://snr.unl.edu/download/research/projects/moisst2018/Presentation/20180606_15_Chaney.pdf)
@@ -85,6 +94,7 @@
    
 ### Misc
    * [Dead or dying? Quantifying the point of no return from hydraulic failure in drought‐induced tree mortality](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15922)
+   * [Humboldt’s enigma: What causes global patterns of mountain biodiversity?](https://science.sciencemag.org/content/365/6458/1108)
    
 ## Videos
 
