@@ -3,6 +3,10 @@
 
 ## Methods
 
+### PostgreSQL / PostGIS
+   * [Everything about PostGIS, presentation by P.R.](https://docs.google.com/presentation/d/1ku1ErilMSieAXXpLrJfwUgRmKcKNzw0LIDfxxHyOVTA/edit#slide=id.g64d203bb0d_0_437)
+   * [Fulltext Search](https://rob.conery.io/2019/10/29/fine-tuning-full-text-search-with-postgresql-12/)
+
 ### R Packages
    * [NicheMapR](https://github.com/mrke/NicheMapR/releases)
    * [gradientForest](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/11-0252.1)
