@@ -23,11 +23,13 @@
    * [belg](https://r-spatialecology.github.io/belg/articles/belg1.html)
    * [funflow](https://github.com/moodymudskipper/funflow)
    * [funGraphs](https://github.com/kcf-jackson/funGraphs/blob/master/readme.md)
+   * [mgcViz](https://mfasiolo.github.io/mgcViz/articles/mgcviz.html)
 
 ### Stats
    * [Controversies in Predictive Modeling, Machine Learning, and Validation](http://hbiostat.org/talks/stratos19.pdf)
    * [DALEX](https://github.com/ModelOriented/DALEX)
    * [ceteris Paribus](https://pbiecek.github.io/PM_VEE/ceterisParibus.html)
+   * [MRF smooths with mgcv](https://www.fromthebottomoftheheap.net/2017/10/19/first-steps-with-mrf-smooths/)
 
 ### Linear Algebra
    * https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=4
