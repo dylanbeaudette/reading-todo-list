@@ -48,6 +48,9 @@
 ### Data Viz
    * [Value-Suppressing Uncertainty Palettes](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9)
 
+### Climate Data
+   * [Odds of Reaching 100% of Normal Water Year Precipitation](https://cw3e.ucsd.edu/odds-of-normal-water-year-precipitation/)
+
 
 ## Scientific Papers / Methods
 
