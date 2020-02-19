@@ -52,6 +52,7 @@
 
 ### Climate Data
    * [Odds of Reaching 100% of Normal Water Year Precipitation](https://cw3e.ucsd.edu/odds-of-normal-water-year-precipitation/)
+   * [DAYMET examples](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1328)
 
 
 ## Scientific Papers / Methods
