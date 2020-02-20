@@ -54,6 +54,9 @@
    * [Odds of Reaching 100% of Normal Water Year Precipitation](https://cw3e.ucsd.edu/odds-of-normal-water-year-precipitation/)
    * [DAYMET examples](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1328)
 
+### Soil Water Balance
+   * [DHSVM](https://github.com/pnnl/DHSVM-PNNL)
+   * [medfate package](https://vegmod.ctfc.cat/frames/medfatebook/)
 
 ## Scientific Papers / Methods
 
