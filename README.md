@@ -80,6 +80,7 @@
    * [Topographic controls of soil organic carbon on soil-mantled landscapes](https://www.nature.com/articles/s41598-019-42556-5.epdf?author_access_token=T6mG0muVZ85rgmzl4ZXcqdRgN0jAjWel9jnR3ZoTv0Nluk2f6jYfhnFFHFgzC-e2A9y0IYWsrE32m5yk8CBE1dFzJnU4tbfiOAmW6uRbUNeeasw0shVTZdiVVXpYm039q7ez0au0ri7aPgJSkO2wMA%3D%3D)
 
 ### DSM
+   * [DSM: good, bad, ugly?](https://www.sciencedirect.com/science/article/pii/S2352009420300043?via%3Dihub#s0035)
    * [Model averaging for mapping topsoil organic carbon in France](https://www.sciencedirect.com/science/article/pii/S0016706119316519?via%3Dihub#f0010)
    * [Addressing the issue of digital mapping of soil classes with imbalanced class observations](https://www.sciencedirect.com/science/article/pii/S0016706118319499?via%3Dihub)
    * [Evaluating sampling efforts of standard laboratory analysis and mid-infrared spectroscopy for cost effective digital soil mapping at field scale](https://www.sciencedirect.com/science/article/pii/S0016706119307475?dgcid=author)
