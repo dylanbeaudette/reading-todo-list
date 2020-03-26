@@ -56,6 +56,7 @@
 
 ### Soil Water Balance
    * [DHSVM](https://github.com/pnnl/DHSVM-PNNL)
+   * [Dhara](https://github.com/HydroComplexity/Dhara/blob/master/docs/notebooks/Dhara_model.ipynb)
    * [medfate package](https://vegmod.ctfc.cat/frames/medfatebook/)
 
 ## Scientific Papers / Methods
