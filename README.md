@@ -6,6 +6,7 @@
 ### PostgreSQL / PostGIS
    * [Everything about PostGIS, presentation by P.R.](https://docs.google.com/presentation/d/1ku1ErilMSieAXXpLrJfwUgRmKcKNzw0LIDfxxHyOVTA/edit#slide=id.g64d203bb0d_0_437)
    * [Fulltext Search](https://rob.conery.io/2019/10/29/fine-tuning-full-text-search-with-postgresql-12/)
+   * [ST_Relate](https://postgis.net/docs/ST_Relate.html) and [DE-91M](https://en.wikipedia.org/wiki/DE-9IM) full spatial relationship matrix
 
 ### R Packages
    * [NicheMapR](https://github.com/mrke/NicheMapR/releases)
@@ -43,6 +44,7 @@
 ### Spatial Pattern Analysis
    * https://nowosad.github.io/post/ent-bp1/
    * https://nowosad.github.io/post/sabre-bp/
+   * https://r-spatialecology.github.io/ialena-2020/
    
 ### Information Theory
    * [The use of spatial information in entropy measures](https://arxiv.org/pdf/1703.06001.pdf)
