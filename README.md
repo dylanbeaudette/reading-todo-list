@@ -21,10 +21,11 @@
    * [ggpointdensity](https://github.com/LKremer/ggpointdensity)
    * [NLMR and landscapetools: An integrated environment for simulating and modifying neutral landscape models in R](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13076)
    * [landscapetools](https://ropensci.github.io/landscapetools/articles/overview.html)
-   * [belg](https://r-spatialecology.github.io/belg/articles/belg1.html)
    * [funflow](https://github.com/moodymudskipper/funflow)
    * [funGraphs](https://github.com/kcf-jackson/funGraphs/blob/master/readme.md)
    * [mgcViz](https://mfasiolo.github.io/mgcViz/articles/mgcviz.html)
+   * [xspliner](https://modeloriented.github.io/xspliner/articles/xspliner.html)
+   * [LimnoPalettes](https://github.com/SwampThingPaul/LimnoPalettes)
 
 ### Stats
    * [Controversies in Predictive Modeling, Machine Learning, and Validation](http://hbiostat.org/talks/stratos19.pdf)
@@ -45,6 +46,7 @@
    * https://nowosad.github.io/post/ent-bp1/
    * https://nowosad.github.io/post/sabre-bp/
    * https://r-spatialecology.github.io/ialena-2020/
+   * [belg](https://r-spatialecology.github.io/belg/articles/belg1.html)
    
 ### Information Theory
    * [The use of spatial information in entropy measures](https://arxiv.org/pdf/1703.06001.pdf)
@@ -133,5 +135,5 @@
 
 
 ## Other
-
+  * [shotGroups](https://cran.r-project.org/web/packages/shotGroups/vignettes/shotGroups.pdf)
 
