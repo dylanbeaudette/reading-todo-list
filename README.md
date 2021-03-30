@@ -38,6 +38,8 @@
 
 ### Commentary
    * https://towardsdatascience.com/the-inspection-paradox-is-everywhere-2ef1c2e9d709
+   * https://discourse.datamethods.org/t/some-articles-on-machine-learning-vs-statistical-models/4011/2
+   * [Why are we using black box models?](https://hdsr.mitpress.mit.edu/pub/f9kuryi8/release/6)
 
 ### Graph Theory
    * [community detection](https://arxiv.org/pdf/0906.0612.pdf)
@@ -136,4 +138,6 @@
 
 ## Other
   * [shotGroups](https://cran.r-project.org/web/packages/shotGroups/vignettes/shotGroups.pdf)
+  * https://www.jbmballistics.com/cgi-bin/jbmcard-5.1.cgi
+  * 
 
