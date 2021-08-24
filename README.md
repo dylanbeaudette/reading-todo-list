@@ -60,6 +60,7 @@
    
 ### Information Theory
    * [The use of spatial information in entropy measures](https://arxiv.org/pdf/1703.06001.pdf)
+   * [{philentropy} package: Information Theory](https://drostlab.github.io/philentropy/articles/Information_Theory.html)
 
 ### Data Viz
    * [Value-Suppressing Uncertainty Palettes](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9)
