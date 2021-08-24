@@ -101,7 +101,6 @@
    * [ped shape quantification](https://dl.sciencesocieties.org/publications/sssaj/articles/80/6/1604)
    * [Re-politicising soils: What is the role of soil framings in setting the agenda?](https://www.sciencedirect.com/science/article/pii/S0016706118321499)
    * [Soil maps of The Netherlands](https://www.sciencedirect.com/science/article/pii/S0016706113000992)
-   * [A Comparative Review of Methods of Using Soil Colors and their Patterns for Wetland Ecology and Management](https://www.tandfonline.com/doi/full/10.1080/00103624.2019.1604737?af=R)
    * [Topographic controls of soil organic carbon on soil-mantled landscapes](https://www.nature.com/articles/s41598-019-42556-5.epdf?author_access_token=T6mG0muVZ85rgmzl4ZXcqdRgN0jAjWel9jnR3ZoTv0Nluk2f6jYfhnFFHFgzC-e2A9y0IYWsrE32m5yk8CBE1dFzJnU4tbfiOAmW6uRbUNeeasw0shVTZdiVVXpYm039q7ez0au0ri7aPgJSkO2wMA%3D%3D)
 
 ### DSM
@@ -113,7 +112,12 @@
    * [Comparing algorithms to disaggregate complex soil polygons in contrasting environments](https://www.sciencedirect.com/science/article/pii/S001670611930415X?via%3Dihub)
    * [2018 POLARIS over-sold](http://snr.unl.edu/download/research/projects/moisst2018/Presentation/20180606_15_Chaney.pdf)
    * [Random forest as a generic framework for predictive modeling of spatial and spatio-temporal variables](https://peerj.com/articles/5518/)
-   
+   * [Using bias correction and ensemble modelling for predictive mapping and related uncertainty: A case study in digital soil mapping](https://www.sciencedirect.com/science/article/pii/S0016706121002330?via%3Dihub#f0005)
+
+### Soil Color
+   * [Color Profiles of Representative Soils. Atlas of American Agriculture](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~206723~3003256:Color-Profiles-of-Representative-So)
+   * [A Comparative Review of Methods of Using Soil Colors and their Patterns for Wetland Ecology and Management](https://www.tandfonline.com/doi/full/10.1080/00103624.2019.1604737?af=R)
+   * [LOOKING AT SOILS FROM SPACE](http://www.50northspatial.org/poglyanemo-na-grunti-z-kosmosu/)
    
 #### Newsletters
    * [Pedometron 44](http://pedometrics.org/wp-content/uploads/2019/07/Pedometron44.pdf)
@@ -124,10 +128,21 @@
    * [Whats in a name? Importance of soil taxonomy...](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/13.WB.016)
    * [Alternative to ST, blah](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/13.WB.020)
    
+### Soil Climate
+   * [Revisiting the Pedocal/Pedalfer boundary and Soil Moisture Regimes using the javaNewhall simulation model and PRISM data](https://www.sciencedirect.com/science/article/pii/S0016706119300461)
+
+
+
 ### Hydrology
    * https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12735
    * https://dl.sciencesocieties.org/publications/vzj/articles/18/1/180191
    * [Scale issues in hydrology](https://dl.sciencesocieties.org/publications/vzj/articles/18/1/190001)
+   * [The Limits of Homogenization: What Hydrological Dynamics can a Simple Model Represent at the Catchment Scale?](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029528)
+   * [Predicting the Campbell Soil Water Retention Function: Comparing Visible–Near-Infrared Spectroscopy with Classical Pedotransfer Function](https://acsess.onlinelibrary.wiley.com/doi/pdfdirect/10.2136/vzj2017.09.0169)
+
+#### Water Budget
+   * [Water balance as an indicator of natural resource condition: Case studies from Great Sand Dunes National Park and Preserve](https://www.sciencedirect.com/science/article/pii/S2351989420308416#!)
+   * [Climatic water deﬁcit, tree speciesranges, and climate change in YosemiteNational Park](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2699.2009.02268.x)
    
    
 ### Misc
@@ -149,6 +164,8 @@
 
 
 ## HAM Radio
+   * [Road to CW](https://static1.squarespace.com/static/58f4e114be6594c2f9bcc9f6/t/594ae675893fc03d52ba3304/1498080889272/Road_to_CW_de_W4ALF.pdf)
+   * 
 
 
 ## Other
