@@ -3,6 +3,9 @@
 
 ## Methods
 
+### Soil Survey
+   * [Three thoughts on soil class maps: Evaluating classification accuracy, Taxonomic vs. geographic soil classes, Soil geoforms & phenoforms](http://www.css.cornell.edu/faculty/dgr2/_static/files/pdf/PLSCS_seminar_22Mar2018_Rossiter.pdf)
+
 ### PostgreSQL / PostGIS
    * [Everything about PostGIS, presentation by P.R.](https://docs.google.com/presentation/d/1ku1ErilMSieAXXpLrJfwUgRmKcKNzw0LIDfxxHyOVTA/edit#slide=id.g64d203bb0d_0_437)
    * [Fulltext Search](https://rob.conery.io/2019/10/29/fine-tuning-full-text-search-with-postgresql-12/)
