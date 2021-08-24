@@ -6,7 +6,9 @@
 ### PostgreSQL / PostGIS
    * [Everything about PostGIS, presentation by P.R.](https://docs.google.com/presentation/d/1ku1ErilMSieAXXpLrJfwUgRmKcKNzw0LIDfxxHyOVTA/edit#slide=id.g64d203bb0d_0_437)
    * [Fulltext Search](https://rob.conery.io/2019/10/29/fine-tuning-full-text-search-with-postgresql-12/)
+   * [Postgres Full-Text Search: A Search Engine in a Database](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
    * [ST_Relate](https://postgis.net/docs/ST_Relate.html) and [DE-91M](https://en.wikipedia.org/wiki/DE-9IM) full spatial relationship matrix
+   * [Introduction to PostGIS (slides)](https://docs.google.com/presentation/d/1qYXdeCIymLl32uoAHvAPrp1r-hK-_4Z8InG7sHEo6vc/edit#slide=id.gd85280829a_0_61)
 
 ### R Packages
    * [NicheMapR](https://github.com/mrke/NicheMapR/releases)
@@ -33,6 +35,11 @@
    * [ceteris Paribus](https://pbiecek.github.io/PM_VEE/ceterisParibus.html)
    * [MRF smooths with mgcv](https://www.fromthebottomoftheheap.net/2017/10/19/first-steps-with-mrf-smooths/)
 
+### Supervised Classification Methods / Commentary
+   * [Predicting into unknown space? Estimating the area of applicability of spatial prediction models](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13650)
+   * [Spatial validation reveals poor predictive performance of large-scale ecological mapping models](https://www.nature.com/articles/s41467-020-18321-y)
+   * [Paintings predict the distribution of species, or the challenge of selecting environmental predictors and evaluation statistics](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12684)
+
 ### Linear Algebra
    * https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=4
 
@@ -40,6 +47,7 @@
    * https://towardsdatascience.com/the-inspection-paradox-is-everywhere-2ef1c2e9d709
    * https://discourse.datamethods.org/t/some-articles-on-machine-learning-vs-statistical-models/4011/2
    * [Why are we using black box models?](https://hdsr.mitpress.mit.edu/pub/f9kuryi8/release/6)
+   * [Spatial CV](https://twitter.com/tom_hengl/status/1427594659438727176)
 
 ### Graph Theory
    * [community detection](https://arxiv.org/pdf/0906.0612.pdf)
@@ -66,7 +74,13 @@
    * [medfate package](https://vegmod.ctfc.cat/frames/medfatebook/)
    * [SoilWat2](https://github.com/DrylandEcology/SOILWAT2)
 
+
 ## Scientific Papers / Methods
+
+### Philosophy of Science / Scientific Method
+   * [Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences](https://science.sciencemag.org/content/263/5147/641)
+   * [Evaluation (not validation) of quantitative models](https://ehp.niehs.nih.gov/doi/10.1289/ehp.98106s61453)
+   * 
 
 ### Misc
    * [EEMT 1.0](https://wiki.cyverse.org/wiki/display/~tyson_swetnam/EEMT+1.0)
@@ -98,6 +112,7 @@
    * [DSM peatlands](https://www.sciencedirect.com/science/article/pii/S001282521830360X#)
    * [Comparing algorithms to disaggregate complex soil polygons in contrasting environments](https://www.sciencedirect.com/science/article/pii/S001670611930415X?via%3Dihub)
    * [2018 POLARIS over-sold](http://snr.unl.edu/download/research/projects/moisst2018/Presentation/20180606_15_Chaney.pdf)
+   * [Random forest as a generic framework for predictive modeling of spatial and spatio-temporal variables](https://peerj.com/articles/5518/)
    
    
 #### Newsletters
