@@ -144,8 +144,8 @@
 #### Water Budget
    * [Water balance as an indicator of natural resource condition: Case studies from Great Sand Dunes National Park and Preserve](https://www.sciencedirect.com/science/article/pii/S2351989420308416#!)
    * [Climatic water deﬁcit, tree speciesranges, and climate change in YosemiteNational Park](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2699.2009.02268.x)
-   
-   
+
+
 ### Misc
    * [Dead or dying? Quantifying the point of no return from hydraulic failure in drought‐induced tree mortality](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15922)
    * [Humboldt’s enigma: What causes global patterns of mountain biodiversity?](https://science.sciencemag.org/content/365/6458/1108)
@@ -163,6 +163,8 @@
    * https://www.noamross.net/2019/08/09/a-new-website/
    * https://thegradient.pub/over-optimization-of-academic-publishing-metrics/
 
+## Typography
+   * [BellTopo Sans Font](https://www.sarahbellmaps.com/belltopo-sans-font-by-sarah-bell/)
 
 ## HAM Radio
    * [Road to CW](https://static1.squarespace.com/static/58f4e114be6594c2f9bcc9f6/t/594ae675893fc03d52ba3304/1498080889272/Road_to_CW_de_W4ALF.pdf)
