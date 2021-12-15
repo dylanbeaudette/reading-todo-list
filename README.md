@@ -123,6 +123,7 @@
    * [Color Profiles of Representative Soils. Atlas of American Agriculture](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~206723~3003256:Color-Profiles-of-Representative-So)
    * [A Comparative Review of Methods of Using Soil Colors and their Patterns for Wetland Ecology and Management](https://www.tandfonline.com/doi/full/10.1080/00103624.2019.1604737?af=R)
    * [LOOKING AT SOILS FROM SPACE](http://www.50northspatial.org/poglyanemo-na-grunti-z-kosmosu/)
+   * [Comparison of visual and instrumental measurements of soil color with different low-cost colorimeters](https://www.tandfonline.com/doi/full/10.1080/00380768.2019.1676624)
    
 #### Newsletters
    * [Pedometron 44](http://pedometrics.org/wp-content/uploads/2019/07/Pedometron44.pdf)
