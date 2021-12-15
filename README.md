@@ -12,6 +12,8 @@
    * [Postgres Full-Text Search: A Search Engine in a Database](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
    * [ST_Relate](https://postgis.net/docs/ST_Relate.html) and [DE-91M](https://en.wikipedia.org/wiki/DE-9IM) full spatial relationship matrix
    * [Introduction to PostGIS (slides)](https://docs.google.com/presentation/d/1qYXdeCIymLl32uoAHvAPrp1r-hK-_4Z8InG7sHEo6vc/edit#slide=id.gd85280829a_0_61)
+   * [Faster Spatial Indexes](https://blog.crunchydata.com/blog/tricks-for-faster-spatial-indexes)
+   * [Optimization in PostGIS](https://docs.google.com/presentation/d/1afJ6LoMPLjzhb5rQDT2-rK42KqUlOoUhBsYb4gXfEdw/edit#slide=id.gfb6fbdf19a_1_0)
 
 ### R Packages
    * [NicheMapR](https://github.com/mrke/NicheMapR/releases)
@@ -124,6 +126,7 @@
    * [A Comparative Review of Methods of Using Soil Colors and their Patterns for Wetland Ecology and Management](https://www.tandfonline.com/doi/full/10.1080/00103624.2019.1604737?af=R)
    * [LOOKING AT SOILS FROM SPACE](http://www.50northspatial.org/poglyanemo-na-grunti-z-kosmosu/)
    * [Comparison of visual and instrumental measurements of soil color with different low-cost colorimeters](https://www.tandfonline.com/doi/full/10.1080/00380768.2019.1676624)
+   * [New perspectives to use Munsell color charts with electronic devices](https://www.sciencedirect.com/science/article/pii/S0168169918301431)
    
 #### Newsletters
    * [Pedometron 44](http://pedometrics.org/wp-content/uploads/2019/07/Pedometron44.pdf)
