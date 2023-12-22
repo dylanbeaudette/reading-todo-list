@@ -5,6 +5,11 @@
 
 ### Soil Survey
    * [Three thoughts on soil class maps: Evaluating classification accuracy, Taxonomic vs. geographic soil classes, Soil geoforms & phenoforms](http://www.css.cornell.edu/faculty/dgr2/_static/files/pdf/PLSCS_seminar_22Mar2018_Rossiter.pdf)
+   * [David Rossiter's Collected Works]([https://www.css.cornell.edu/faculty/dgr2/tutorials/index.html](https://www.css.cornell.edu/faculty/dgr2/index.html))
+
+### Spectroscopy
+   * [Spectral signatures of soil horizons and soil orders – An exploratory study of 270 soil profiles](https://www.sciencedirect.com/science/article/pii/S0016706121000355?via%3Dihub)
+
 
 ### PostgreSQL / PostGIS
    * [Everything about PostGIS, presentation by P.R.](https://docs.google.com/presentation/d/1ku1ErilMSieAXXpLrJfwUgRmKcKNzw0LIDfxxHyOVTA/edit#slide=id.g64d203bb0d_0_437)
@@ -33,15 +38,23 @@
    * [mgcViz](https://mfasiolo.github.io/mgcViz/articles/mgcviz.html)
    * [xspliner](https://modeloriented.github.io/xspliner/articles/xspliner.html)
    * [LimnoPalettes](https://github.com/SwampThingPaul/LimnoPalettes)
+   * [performance](https://easystats.github.io/performance/)
+   * [bigmds](https://cran.r-project.org/web/packages/bigmds/bigmds.pdf)
 
 ### Stats
+   * [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://peerj.com/articles/6876/?td=tw)
+   * [A brief introduction to mixed effects modelling and multi-model inference in ecology](https://peerj.com/articles/4794/#p-6)
    * [Controversies in Predictive Modeling, Machine Learning, and Validation](http://hbiostat.org/talks/stratos19.pdf)
    * [DALEX](https://github.com/ModelOriented/DALEX)
    * [ceteris Paribus](https://pbiecek.github.io/PM_VEE/ceterisParibus.html)
    * [MRF smooths with mgcv](https://www.fromthebottomoftheheap.net/2017/10/19/first-steps-with-mrf-smooths/)
+   * [Spatial sampling with R (book)](https://dickbrus.github.io/SpatialSamplingwithR/)
+   * [Multidimensional Scaling With Very Large Datasets](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1470001?journalCode=ucgs20)
+   * [Categorical Data Analysis Course (Friendly)](https://friendly.github.io/psy6136/schedule.html)
 
 ### Supervised Classification Methods / Commentary
    * [Predicting into unknown space? Estimating the area of applicability of spatial prediction models](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13650)
+   * [Machine learning-based global maps of ecological variables and the challenge of assessing them](https://www.nature.com/articles/s41467-022-29838-9)
    * [Spatial validation reveals poor predictive performance of large-scale ecological mapping models](https://www.nature.com/articles/s41467-020-18321-y)
    * [Paintings predict the distribution of species, or the challenge of selecting environmental predictors and evaluation statistics](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12684)
 
@@ -58,14 +71,19 @@
    * [community detection](https://arxiv.org/pdf/0906.0612.pdf)
 
 ### Spatial Pattern Analysis
+   * [Analysis of Spatial Patterns: Current State and Future Challenges](https://jakubnowosad.com/iiasa2023/#/title-slide)
    * https://nowosad.github.io/post/ent-bp1/
    * https://nowosad.github.io/post/sabre-bp/
    * https://r-spatialecology.github.io/ialena-2020/
+   * [regional](https://github.com/Nowosad/regional)
+   * [motif](https://jakubnowosad.com/motif/)
    * [belg](https://r-spatialecology.github.io/belg/articles/belg1.html)
    
 ### Information Theory
    * [The use of spatial information in entropy measures](https://arxiv.org/pdf/1703.06001.pdf)
    * [{philentropy} package: Information Theory](https://drostlab.github.io/philentropy/articles/Information_Theory.html)
+   * [Cross Entropy Clustering](https://swarm-lab.github.io/cec/)
+   * [landscapemetrics](https://r-spatialecology.github.io/landscapemetrics/articles/new_metrics.html)
 
 ### Data Viz
    * [Value-Suppressing Uncertainty Palettes](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9)
@@ -80,6 +98,9 @@
    * [Dhara](https://github.com/HydroComplexity/Dhara/blob/master/docs/notebooks/Dhara_model.ipynb)
    * [medfate package](https://vegmod.ctfc.cat/frames/medfatebook/)
    * [SoilWat2](https://github.com/DrylandEcology/SOILWAT2)
+
+### Natural Language Processing
+   * [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 
 
 ## Scientific Papers / Methods
@@ -109,6 +130,8 @@
    * [Re-politicising soils: What is the role of soil framings in setting the agenda?](https://www.sciencedirect.com/science/article/pii/S0016706118321499)
    * [Soil maps of The Netherlands](https://www.sciencedirect.com/science/article/pii/S0016706113000992)
    * [Topographic controls of soil organic carbon on soil-mantled landscapes](https://www.nature.com/articles/s41598-019-42556-5.epdf?author_access_token=T6mG0muVZ85rgmzl4ZXcqdRgN0jAjWel9jnR3ZoTv0Nluk2f6jYfhnFFHFgzC-e2A9y0IYWsrE32m5yk8CBE1dFzJnU4tbfiOAmW6uRbUNeeasw0shVTZdiVVXpYm039q7ez0au0ri7aPgJSkO2wMA%3D%3D)
+   * [Differing views of soil and pedogenesis by two masters: Darwin and Dokuchaev](https://www.sciencedirect.com/science/article/pii/S0016706114003322?via%3Dihub)
+   * [Cation exchange in forest soils: the need for a new perspective](https://bsssjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2389.2008.01069.x)
 
 ### DSM
    * [DSM: good, bad, ugly?](https://www.sciencedirect.com/science/article/pii/S2352009420300043?via%3Dihub#s0035)
@@ -120,6 +143,10 @@
    * [2018 POLARIS over-sold](http://snr.unl.edu/download/research/projects/moisst2018/Presentation/20180606_15_Chaney.pdf)
    * [Random forest as a generic framework for predictive modeling of spatial and spatio-temporal variables](https://peerj.com/articles/5518/)
    * [Using bias correction and ensemble modelling for predictive mapping and related uncertainty: A case study in digital soil mapping](https://www.sciencedirect.com/science/article/pii/S0016706121002330?via%3Dihub#f0005)
+   * [Multiscale evaluations of global, national and regional digital soil mapping products in France](https://www.sciencedirect.com/science/article/pii/S0016706122003597#b0260)
+   * [Comparing the prediction performance, uncertainty quantification and extrapolation potential of regression kriging and random forest while accounting for soil measurement errors](https://www.sciencedirect.com/science/article/pii/S0016706122004992)
+   * [Assessment of global, national and regional-level digital soil mapping products at different spatial supports](https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/ejss.13300)
+   * [Neighborhood Size of Training Data Influences Soil Map Disaggregation](https://acsess.onlinelibrary.wiley.com/doi/epdf/10.2136/sssaj2016.08.0258)
 
 ### Soil Color
    * [Color Profiles of Representative Soils. Atlas of American Agriculture](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~206723~3003256:Color-Profiles-of-Representative-So)
