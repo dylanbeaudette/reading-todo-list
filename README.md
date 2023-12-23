@@ -19,8 +19,11 @@
    * [Introduction to PostGIS (slides)](https://docs.google.com/presentation/d/1qYXdeCIymLl32uoAHvAPrp1r-hK-_4Z8InG7sHEo6vc/edit#slide=id.gd85280829a_0_61)
    * [Faster Spatial Indexes](https://blog.crunchydata.com/blog/tricks-for-faster-spatial-indexes)
    * [Optimization in PostGIS](https://docs.google.com/presentation/d/1afJ6LoMPLjzhb5rQDT2-rK42KqUlOoUhBsYb4gXfEdw/edit#slide=id.gfb6fbdf19a_1_0)
+   * [Scaling Vector Data with Postgres](https://www.crunchydata.com/blog/scaling-vector-data-with-postgres)
+   * [HNSW Indexes with Postgres and pgvector](https://www.crunchydata.com/blog/hnsw-indexes-with-postgres-and-pgvector)
 
 ### R Packages
+   * [R Workflow](https://www.fharrell.com/post/rflow/)
    * [NicheMapR](https://github.com/mrke/NicheMapR/releases)
    * [gradientForest](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/11-0252.1)
    * [blockCV](https://github.com/rvalavi/blockCV) [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13107)
@@ -40,6 +43,7 @@
    * [LimnoPalettes](https://github.com/SwampThingPaul/LimnoPalettes)
    * [performance](https://easystats.github.io/performance/)
    * [bigmds](https://cran.r-project.org/web/packages/bigmds/bigmds.pdf)
+   * [mvgam](https://nicholasjclark.github.io/mvgam/articles/trend_formulas.html#capturing-seasonality)
 
 ### Stats
    * [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://peerj.com/articles/6876/?td=tw)
@@ -133,7 +137,11 @@
    * [Differing views of soil and pedogenesis by two masters: Darwin and Dokuchaev](https://www.sciencedirect.com/science/article/pii/S0016706114003322?via%3Dihub)
    * [Cation exchange in forest soils: the need for a new perspective](https://bsssjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2389.2008.01069.x)
 
+### Scale and Scaling Spatial Models
+   * [What is the Best Inference Trajectory for Mapping Soil Functions: An Example of Mapping Soil Available Water Capacity over Languedoc Roussillon (France)](https://www.mdpi.com/2571-8789/3/2/34#)
+
 ### DSM
+   * [Perspectives on validation in digital soil mapping of continuous attributes—A review](https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/sum.12694)
    * [DSM: good, bad, ugly?](https://www.sciencedirect.com/science/article/pii/S2352009420300043?via%3Dihub#s0035)
    * [Model averaging for mapping topsoil organic carbon in France](https://www.sciencedirect.com/science/article/pii/S0016706119316519?via%3Dihub#f0010)
    * [Addressing the issue of digital mapping of soil classes with imbalanced class observations](https://www.sciencedirect.com/science/article/pii/S0016706118319499?via%3Dihub)
@@ -147,6 +155,7 @@
    * [Comparing the prediction performance, uncertainty quantification and extrapolation potential of regression kriging and random forest while accounting for soil measurement errors](https://www.sciencedirect.com/science/article/pii/S0016706122004992)
    * [Assessment of global, national and regional-level digital soil mapping products at different spatial supports](https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/ejss.13300)
    * [Neighborhood Size of Training Data Influences Soil Map Disaggregation](https://acsess.onlinelibrary.wiley.com/doi/epdf/10.2136/sssaj2016.08.0258)
+   * [Benefits of hierarchical predictions for digital soil mapping—An approach to map bimodal soil pH](https://www.sciencedirect.com/science/article/pii/S0016706123002562?via%3Dihub)
 
 ### Soil Color
    * [Color Profiles of Representative Soils. Atlas of American Agriculture](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~206723~3003256:Color-Profiles-of-Representative-So)
@@ -166,19 +175,22 @@
    
 ### Soil Climate
    * [Revisiting the Pedocal/Pedalfer boundary and Soil Moisture Regimes using the javaNewhall simulation model and PRISM data](https://www.sciencedirect.com/science/article/pii/S0016706119300461)
+   * [Spatial Estimates of Soil Moisture for Understanding Ecological Potential and Risk: A Case Study for Arid and Semi-Arid Ecosystems](https://www.mdpi.com/2073-445X/11/10/1856)
 
 
 
 ### Hydrology
+   * [Green-Ampt Infiltration Parameters from Soils Data](https://dnrftp.state.co.us/DWR/DamSafety/HydrologyGuidelines_doNOTdelete/Guidelines_References/Rawls%20et%20al%20Green-Ampt%20Infiltration%20parameters%20from%20soils%20data%20ASCE%201983.pdf)
    * https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12735
    * https://dl.sciencesocieties.org/publications/vzj/articles/18/1/180191
    * [Scale issues in hydrology](https://dl.sciencesocieties.org/publications/vzj/articles/18/1/190001)
    * [The Limits of Homogenization: What Hydrological Dynamics can a Simple Model Represent at the Catchment Scale?](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029528)
    * [Predicting the Campbell Soil Water Retention Function: Comparing Visible–Near-Infrared Spectroscopy with Classical Pedotransfer Function](https://acsess.onlinelibrary.wiley.com/doi/pdfdirect/10.2136/vzj2017.09.0169)
 
-#### Water Budget
+#### Water Budget and Hydologic Modeling
    * [Water balance as an indicator of natural resource condition: Case studies from Great Sand Dunes National Park and Preserve](https://www.sciencedirect.com/science/article/pii/S2351989420308416#!)
    * [Climatic water deﬁcit, tree speciesranges, and climate change in YosemiteNational Park](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2699.2009.02268.x)
+   * [Mapping time-to-trafficability for California agricultural soils after dormant season deep wetting](https://www.sciencedirect.com/science/article/pii/S0167198722000022)
 
 
 ### Misc
