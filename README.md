@@ -44,6 +44,7 @@
    * [performance](https://easystats.github.io/performance/)
    * [bigmds](https://cran.r-project.org/web/packages/bigmds/bigmds.pdf)
    * [mvgam](https://nicholasjclark.github.io/mvgam/articles/trend_formulas.html#capturing-seasonality)
+   * [sgsR](https://tgoodbody.github.io/sgsR/index.html)
 
 ### Stats
    * [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://peerj.com/articles/6876/?td=tw)
